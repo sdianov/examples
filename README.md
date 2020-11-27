@@ -1,2 +1,2 @@
 # examples
-Code examples
+Code examples for interviews
